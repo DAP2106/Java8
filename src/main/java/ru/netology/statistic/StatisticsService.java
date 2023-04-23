@@ -8,7 +8,7 @@ public class StatisticsService {
             if (currentMax < income) {
                 currentMax = income;
             }
-        }z
+        }
         return currentMax;
     }
 }
